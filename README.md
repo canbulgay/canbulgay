@@ -38,7 +38,7 @@ First of all, as an introduction, I talked a little about myself and my goals.If
   <summary><b>📫&nbsp;&nbsp;Contact&nbsp;With&nbsp;Me</b></summary>
   <br/>
 <p align="left">
-<a href="https://linkedin.com/in/canbulgay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canbulgay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/can-bulgay-505194213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canbulgay" height="30" width="40" /></a>
 <a href="https://instagram.com/canbulgay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canbulgay" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/canbulgay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="canbulgay" height="30" width="40" /></a>
 </p>
