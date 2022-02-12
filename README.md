@@ -1,7 +1,6 @@
 ### Hi there 👋 I am a business student on the way to become a full stack developer.
 First of all, as an introduction, I talked a little about myself and my goals.If you are not interested in my personal information and goals, I suggest you do not waste your time reading.
 
-![alt text](file:///C:/Users/Lenovo/OneDrive/Masa%C3%BCst%C3%BC/P004/Can%20Bulgay%20(1).pdf)
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
