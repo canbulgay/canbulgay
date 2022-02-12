@@ -17,6 +17,17 @@ First of all, as an introduction, I talked a little about myself and my goals.If
   
 </details> 
 
+
+<details>
+  <summary><b>✨&nbsp;&nbsp;My&nbsp;Certificates</b></summary>
+  <br/>
+
+![Goldenmade](https://github.com/canbulgay/canbulgay/blob/master/Can%20Bulgay%20(1)-1.png)
+
+![Platiniummade](https://github.com/canbulgay/canbulgay/blob/master/Can%20Bulgay-1.png)
+  
+</details> 
+
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
