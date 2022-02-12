@@ -44,7 +44,6 @@ First of all, as an introduction, I talked a little about myself and my goals.If
 </p>
  </details>
 
-- 🔭 I’m currently not working
 - 🌱 I’m currently learning vue,node
 - 👯 I’m looking to collaborate on any projects which improve myself
 - 💬 Ask me about laravel & php
