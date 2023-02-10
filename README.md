@@ -1,5 +1,13 @@
-### Hi there 👋 I am a business student on the way to become a full stack developer.
-First of all, as an introduction, I talked a little about myself and my goals.If you are not interested in my personal information and goals, I suggest you do not waste your time reading.
+<h1 align="center">Hi 👋, I'm a passionate software developer from Turkey</h1>
+<h3 align="center">I'am a software developer with 2+ years of broad experience in back end development with the goal of learning and mastering front end development.</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canbulgay" alt="canbulgay" /></a> </p>
+
+- 🌱 I’m currently learning **Node.js, Typescript, Jquery**
+
+- 💬 Ask me about **Vue.js, Laravel, Javascript**
+
+- 📫 How to reach me **canbulgay@outlook.com**
 
 
 <details>
