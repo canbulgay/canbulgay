@@ -41,11 +41,11 @@
 <br/>
 
 
-- 🌱 I’m currently learning **Node.js, Typescript, Jquery**
+🌱 I’m currently learning **Node.js, Typescript, Jquery**
 
-- 💬 Ask me about **Vue.js, Laravel, Javascript**
+💬 Ask me about **Vue.js, Laravel, Javascript**
 
-- 📫 How to reach me **canbulgay@outlook.com**
+📫 How to reach me **canbulgay@outlook.com**
 
 
 <br/>
