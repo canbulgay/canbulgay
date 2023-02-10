@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm a passionate software developer from Turkey</h1>
 <h3 align="center">I'am a software developer with 2+ years of broad experience in back end development with the goal of learning and mastering front end development.</h3>
 
-- 🌱 I’m currently learning **Node.js, Typescript, Jquery**
-
-- 💬 Ask me about **Vue.js, Laravel, Javascript**
-
-- 📫 How to reach me **canbulgay@outlook.com**
-
-
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
@@ -45,11 +38,15 @@
 </p>
  </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canbulgay&show_icons=true&locale=en&layout=compact" alt="canbulgay" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canbulgay&show_icons=true&locale=en" alt="canbulgay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canbulgay&" alt="canbulgay" /></p>
+- 🌱 I’m currently learning **Node.js, Typescript, Jquery**
+
+- 💬 Ask me about **Vue.js, Laravel, Javascript**
+
+- 📫 How to reach me **canbulgay@outlook.com**
+
 
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canbulgay&show_icons=true&locale=en" alt="canbulgay" /></p>
