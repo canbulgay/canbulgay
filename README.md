@@ -48,6 +48,3 @@
 📫 How to reach me **canbulgay@outlook.com**
 
 
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canbulgay&show_icons=true&locale=en" alt="canbulgay" /></p>
-
