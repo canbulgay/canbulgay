@@ -1,4 +1,4 @@
-<h1 align="center">A simple javascript lover from Turkey</h1>
+<h1 align="center">A simple coding lover from Turkey</h1>
 <h3 align="center">I'am a software developer with 3+ years of broad experience in back end development with the goal of learning and mastering front end development.</h3>
 
 
