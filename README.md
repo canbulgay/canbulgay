@@ -1,4 +1,4 @@
-<h1 align="center">A simple coding lover from Turkey</h1>
+<h1 align="center">A simple javascript lover from Turkey</h1>
 <h3 align="center">I'am a software developer with 3+ years of broad experience in back end development with the goal of learning and mastering front end development.</h3>
 
 
@@ -9,17 +9,6 @@
 ### Who am I ?
   I was born in February 1996 in Bodrum. When I graduated from high school, I got into Mechatronics Engineering at Istanbul Gelişim University. After studying for 2 years, I decided that Istanbul was not good for me and I didn't really want to study engineering, and I left school and returned to Bodrum, and this was the best decision I've ever made in my life. One year later, I got into the Department of Business Administration at Izmir Dokuz Eylul University. I wanted a job where I could play an active role because of my strong communication with people, so I turned to marketing and decided to develop my skills. I started working at Varuna Gezgin in my first year of school and this was the second best decision I have made in my life. I have worked with a lot of people during my time and got to know a lot of people. Every person I know has helped me reach my current maturity. I loved working as a waiter, but I decided that if I proceeded in this direction, I would not have a future that would please me, and as a result of my research, I met software in my last year of school. I have become a person who follows new developments and technologies every day, accepts software not as a job but as a philosophy of life, and want to spend my life in front of the computer.
     
-</details> 
-
-
-<details>
-  <summary><b>📜&nbsp;&nbsp;My&nbsp;Certificates</b></summary>
-  <br/>
-
-![Goldenmade](https://github.com/canbulgay/canbulgay/blob/master/Can%20Bulgay%20(1)-1.png)
-
-![Platiniummade](https://github.com/canbulgay/canbulgay/blob/master/Can%20Bulgay-1.png)
-  
 </details> 
 
 <details>
@@ -43,8 +32,8 @@
 
 🌱 I’m currently learning **Node.js, Typescript, Jquery**
 
-💬 Ask me about **Vue.js, Laravel, Javascript**
+💬 Ask me about **Next.js, Typescript, Javascript**
 
-📫 How to reach me **canbulgay@outlook.com**
+📫 How to reach me **can.bulgay@enuygun.com**
 
 
