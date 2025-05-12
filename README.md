@@ -1,5 +1,5 @@
-<h1 align="center">A simple javascript lover from Turkey</h1>
-<h3 align="center">I'am a software developer with 3+ years of broad experience in back end development with the goal of learning and mastering front end development.</h3>
+<h1 align="center">Not Talk, Only Javascript</h1>
+<h3 align="center">Hey! I'am a software developer with 4+ years of experience in full stack development with passion of learning and kindness.</h3>
 
 
 <details>
@@ -7,7 +7,11 @@
   <br/>
 
 ### Who am I ?
-  I was born in February 1996 in Bodrum. When I graduated from high school, I got into Mechatronics Engineering at Istanbul Gelişim University. After studying for 2 years, I decided that Istanbul was not good for me and I didn't really want to study engineering, and I left school and returned to Bodrum, and this was the best decision I've ever made in my life. One year later, I got into the Department of Business Administration at Izmir Dokuz Eylul University. I wanted a job where I could play an active role because of my strong communication with people, so I turned to marketing and decided to develop my skills. I started working at Varuna Gezgin in my first year of school and this was the second best decision I have made in my life. I have worked with a lot of people during my time and got to know a lot of people. Every person I know has helped me reach my current maturity. I loved working as a waiter, but I decided that if I proceeded in this direction, I would not have a future that would please me, and as a result of my research, I met software in my last year of school. I have become a person who follows new developments and technologies every day, accepts software not as a job but as a philosophy of life, and want to spend my life in front of the computer.
+  As a self-taught full stack developer with a passion for learning and growth. My journey began without a formal CS degree, but through the courses and internships I discovered through my research, combined with determination I’ve become proficient in key technologies such as Next.js, Node.js, Vue, React, TypeScript, and GraphQL. These tools have enabled me to craft high-performance, user-centric applications for online travel agency (OTA) and customer relationship management (CRM).
+
+Throughout my career, I’ve gained valuable experience in SEO for web pages, enhancing content and search engine rankings. This combination of development and SEO expertise allows me to create robust applications that are not only technically sound but also highly discoverable and impactful online.
+ I am deeply passionate about code quality and maintainability. I consistently strive to improve the structure and clarity of code through constant refactoring. Writing unit tests to ensure the reliability and performance of my solutions is a key part of my process, as I believe clean and well-tested code is the foundation of any successful project. 
+As I continue to grow in my career, I’m excited to take on more complex challenges, refine my skills, and contribute to building innovative solutions that make a difference. I am always seeking opportunities to learn, collaborate, and improve my craft in software development.
     
 </details> 
 
@@ -21,19 +25,17 @@
   <summary><b>📫&nbsp;&nbsp;Contact&nbsp;With&nbsp;Me</b></summary>
   <br/>
 <p align="left">
-<a href="https://www.linkedin.com/in/can-bulgay-505194213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canbulgay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/canbulgay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canbulgay" height="30" width="40" /></a>
 <a href="https://instagram.com/canbulgay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canbulgay" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/canbulgay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="canbulgay" height="30" width="40" /></a>
 </p>
  </details>
 
 <br/>
 
 
-🌱 I’m currently learning **Node.js, Typescript, Jquery**
+🌱 I’m currently learning **Generative AI Modals and Agents**
 
 💬 Ask me about **Next.js, Typescript, Javascript**
 
-📫 How to reach me **can.bulgay@enuygun.com**
-
+📫 How to reach me **canbulgay@outlook.com**
 
