@@ -33,9 +33,9 @@ As I continue to grow in my career, I’m excited to take on more complex challe
 <br/>
 
 
-🌱 I’m currently learning **Generative AI Modals and Agents**
+🌱 I’m currently learning **Generative AI Modals and Workflow Agents**
 
-💬 Ask me about **Next.js, Typescript, Javascript**
+💬 Ask me about **Next.js, Typescript**
 
 📫 How to reach me **canbulgay@outlook.com**
 
