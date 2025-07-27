@@ -1,4 +1,4 @@
-<h1 align="center">Not Talk, Only Javascript</h1>
+<h1 align="center">Can't Talk, Javascript Only</h1>
 <h3 align="center">Hey! I'am a software developer with 4+ years of experience in full stack development with passion of learning constantly</h3>
 
 
