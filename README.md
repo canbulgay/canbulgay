@@ -33,7 +33,7 @@ As I continue to grow in my career, I’m excited to take on more complex challe
 <br/>
 
 
-🌱 I’m currently learning **Generative AI Modals and Workflow Agents**
+🌱 I’m currently learning **Generative AI Models**
 
 💬 Ask me about **Next.js, Typescript**
 
