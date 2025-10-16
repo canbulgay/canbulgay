@@ -1,6 +1,4 @@
 <h1 align="center">Can't Talk, Javascript Only</h1>
-<h3 align="center">Hey! I'am a software developer with 4+ years of experience in full stack development with passion of learning constantly</h3>
-
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
