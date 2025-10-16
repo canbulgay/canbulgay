@@ -29,12 +29,3 @@ As I continue to grow in my career, I’m excited to take on more complex challe
 </p>
  </details>
 
-<br/>
-
-
-🌱 I’m currently learning **Generative AI Models**
-
-💬 Ask me about **Next.js, Typescript**
-
-📫 How to reach me **canbulgay@outlook.com**
-
