@@ -1,6 +1,3 @@
-<h1 align="center">Can't Talk, Javascript Only</h1>
-  <br/>
-
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
